@@ -175,6 +175,6 @@ if submit_button:
         st.download_button(
             label="Pobierz paczkę ZIP",
             data=zip_buffer.getvalue(),
-            file_name="dokumentacja_projektu.zip",
+            file_name=f"{nazwa_bezpieczna}_maile.zip",
             mime="application/zip"
         )
