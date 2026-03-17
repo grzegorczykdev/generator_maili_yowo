@@ -63,8 +63,8 @@ KRAJ_MIEJSCOWNIK = {
     "włochy": "Włoszech", "wlochy": "Włoszech", "italy": "Włoszech", "italia": "Włoszech",
 }
 
-st.title("📄 Generator Maili YoWo")
-st.write("Wypełnij poniższe dane, aby wygenerować komplet dokumentów.")
+st.title("🌻 Generator Maili YoWo")
+st.write("Wypełnij poniższe dane, aby wygenerować szablony wiadomości :)")
 
 # --- FORMULARZ ---
 with st.form("project_form"):
